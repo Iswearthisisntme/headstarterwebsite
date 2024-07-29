@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HeadstarterPortfoliowebstite/static/css/main.5778b47e.css",
-    "main.js": "/HeadstarterPortfoliowebstite/static/js/main.82a8d661.js",
-    "static/js/453.a77fec22.chunk.js": "/HeadstarterPortfoliowebstite/static/js/453.a77fec22.chunk.js",
-    "static/media/head.jpg": "/HeadstarterPortfoliowebstite/static/media/head.3fc7cd7605907ae3e50d.jpg",
-    "index.html": "/HeadstarterPortfoliowebstite/index.html",
-    "main.5778b47e.css.map": "/HeadstarterPortfoliowebstite/static/css/main.5778b47e.css.map",
-    "main.82a8d661.js.map": "/HeadstarterPortfoliowebstite/static/js/main.82a8d661.js.map",
-    "453.a77fec22.chunk.js.map": "/HeadstarterPortfoliowebstite/static/js/453.a77fec22.chunk.js.map"
+    "main.css": "/headstarterwebsite/static/css/main.5778b47e.css",
+    "main.js": "/headstarterwebsite/static/js/main.56eb03fc.js",
+    "static/js/453.a77fec22.chunk.js": "/headstarterwebsite/static/js/453.a77fec22.chunk.js",
+    "static/media/head.jpg": "/headstarterwebsite/static/media/head.3fc7cd7605907ae3e50d.jpg",
+    "index.html": "/headstarterwebsite/index.html",
+    "main.5778b47e.css.map": "/headstarterwebsite/static/css/main.5778b47e.css.map",
+    "main.56eb03fc.js.map": "/headstarterwebsite/static/js/main.56eb03fc.js.map",
+    "453.a77fec22.chunk.js.map": "/headstarterwebsite/static/js/453.a77fec22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5778b47e.css",
-    "static/js/main.82a8d661.js"
+    "static/js/main.56eb03fc.js"
   ]
 }
